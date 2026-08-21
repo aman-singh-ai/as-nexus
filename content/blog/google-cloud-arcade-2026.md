@@ -43,25 +43,20 @@ Participating in the Google Cloud Arcade is completely free and designed to be e
 
 While the exact items change slightly every season, the 2026 Prize Counter follows a tiered system. The more points you gather, the more premium the rewards become. 
 
-* **Trooper Tier (50+ Points):** 
+* **Trooper Tier (50 or above Points):** 
   * Google Cloud digital wallpapers
   * Exclusive digital badges
   * Cloud skill milestone certificates
 
-* **Ranger Tier (75+ Points):**
+* **Ranger Tier (75 or above Points):**
   * Google Cloud coffee mugs
   * Premium sticker packs
   * High-quality pens and notebooks
 
-* **Pro Tier (30 - 50 Points):**
+* **Legend Tier (120 or above Points):**
   * Signature Google Cloud T-Shirts (Standard & Polo)
   * Branded water bottles and tumblers
   * Desktop accessories
-
-* **Champion Tier (50+ Points):**
-  * The coveted Google Cloud Backpacks
-  * Premium hoodies and jackets
-  * Google Cloud Certification Exam Vouchers (100% off)
 
 > **Pro Tip:** Always aim for the Champion Tier. A free certification voucher is worth hundreds of dollars and adds immense value to your resume!
 
