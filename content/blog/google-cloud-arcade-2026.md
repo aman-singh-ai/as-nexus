@@ -5,12 +5,12 @@ author: "AS Nexus"
 date: "2026-03-17"
 tags: ["Google Cloud", "Cloud Computing", "Arcade 2026", "Developer Rewards", "Tech Swag"]
 category: "Cloud"
-image: "https://i.ytimg.com/vi/GkPPXFQtnnw/hqdefault.jpg"
+image: "https://i.ytimg.com/vi/Bd-R3X2SH_4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgLONVhvAlTgU0HBnVbGpMIvio7Q"
 ---
 
 # Google Cloud Skills Arcade 2026 – How to Earn Points and Swag Rewards
 
-![Google Cloud Arcade 2026 Banner](https://i.ytimg.com/vi/RZKAtiQxru4/maxresdefault.jpg)
+![Google Cloud Arcade 2026 Banner](https://i.ytimg.com/vi/Bd-R3X2SH_4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAgLONVhvAlTgU0HBnVbGpMIvio7Q)
 
 *Master cloud tech, complete challenges, and get rewarded.*
 
