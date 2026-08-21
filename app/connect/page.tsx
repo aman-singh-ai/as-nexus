@@ -1,5 +1,5 @@
 import PageHeader from '../components/PageHeader'
-import { Github, Instagram, Send, Linkedin, Mail, MessageCircle } from 'lucide-react'
+import { Github, Linkedin, Mail, Link } from 'lucide-react'
 import { LucideIcon } from 'lucide-react'
 
 interface SocialLink {
@@ -11,29 +11,19 @@ interface SocialLink {
 
 const socials: SocialLink[] = [
   {
+    icon: Link,
+    name: 'Linktree',
+    url: 'https://aman-singh-ai.github.io/aman-singh-ai-linktree/',
+    handle: '@aman-singh-ai',
+  },
+
+  {
     icon: Github,
     name: 'GitHub',
     url: 'https://github.com/aman-singh-ai',
     handle: '@aman-singh-ai',
   },
-  {
-    icon: Instagram,
-    name: 'Instagram',
-    url: 'https://instagram.com/vishtechh',
-    handle: '@vishtechh',
-  },
-  {
-    icon: Send,
-    name: 'Telegram',
-    url: 'https://t.me/vistechh',
-    handle: '@vistechh',
-  },
-  {
-    icon: MessageCircle,
-    name: 'WhatsApp',
-    url: '#',
-    handle: '+1234567890',
-  },
+  
   {
     icon: Linkedin,
     name: 'LinkedIn',
